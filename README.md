@@ -2,6 +2,19 @@
 
 An Excel project that aims to provide Maven Roasters, a fictitious coffee shop operating across three locations in New York City, with actionable insights. These insights are intended to inform strategic decisions and optimize Maven Roasters' overall operational effectiveness
 
+## Table of Content
+- [Project Overview](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#project-overview)
+- [Project Scope](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#project-scope)
+- [Buisness Objective](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#business-objective)
+- [Document Purpose](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#document-purpose)
+- [Use Case](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#use-case)
+- [Data Source](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#data-source)
+- [Data Cleaning and Processing](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#data-cleaning-and-processing)
+- [Data Analysis](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#data-analysis-and-insight)
+- [Data Visualization](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#data-visualization)
+- [Recommendation](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#recommendation)
+- [Conclusion](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis#conclusion)
+
 ## Project Overview
 
 Maven Roasters, a fictitious coffee shop operating across three locations in New York City, has accumulated transaction records containing valuable information about their sales. This project aims to analyze these transaction records to gain insights into Maven Roasters' sales trends, busiest days, product popularity, and revenue contributions. 
@@ -39,7 +52,7 @@ Customer Service Team
 
 ## Data Source
 
-This project employs dataset, sourced from the Maven Analytics website, designed specifically for practice purposes. The dataset, presented in the form of an Excel file, is a singular table boasting an expansive 149,116 rows and 11 columns. Within this structured framework, a wealth of information characterizes Maven Roasters' sales data, providing a nuanced understanding of various facets of their business operations.
+This project employs dataset, sourced from the [Maven Analytics](https://www.mavenanalytics.io/data-playground?page=3&pageSize=5) website, designed specifically for practice purposes. The dataset, presented in the form of an Excel file, is a singular table boasting an expansive 149,116 rows and 11 columns. Within this structured framework, a wealth of information characterizes Maven Roasters' sales data, providing a nuanced understanding of various facets of their business operations.
 
 The dataset encompasses key attributes essential for a comprehensive analysis, including Transaction ID, Transaction Date, Transaction Time, Transaction Qty, Store ID, Store Location, Product ID, Unit Price, Product Category, Product Type, and Product Detail. Each of these variables contributes crucial insights, collectively painting a vivid portrayal of Maven Roasters' transactional scenario.
 
@@ -185,7 +198,7 @@ To identify the best-selling product by revenue in Excel Power Pivot, a dedicate
 
 ## Data Visualization
 
-This data visualization was created using Microsoft Excel, each visual in it was created to display information matching each question in the project objective.
+This data visualization was created using Microsoft Excel, each visual in it was created to display information matching each question in the business objective.
 
 ![](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis/blob/main/Dashboard.png)
 
@@ -214,51 +227,4 @@ I’m interested in a Data Analyst role in a reputable organization where I can 
 You can reach me on ochukoejemudaro@gmail.com or [Twitter](https://twitter.com/iamochuks/) or [LinkedIn](https://www.linkedin.com/in/ochukoejemudaro01/)
 
 THANK YOU
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
