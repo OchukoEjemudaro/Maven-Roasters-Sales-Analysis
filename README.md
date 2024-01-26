@@ -156,21 +156,19 @@ A comprehensive approach was taken to create a measure that calculate total quan
 
 ```Total Quantity Sold = SUM(Maven_Data[transaction_qty])```
 
-- **Top 5 Selling Product**
-
+**Top 5 Selling Product**
 ![](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis/blob/main/Top_5.png)
 
 - With the highest quantity sold (4708 units), Earl Grey Rg leading in quantity sold, this product holds a prominent position, suggesting it's a customer favorite and potentially a key revenue driver.
 - Dark Chocolate Lg, Latte, Morning Sunrise Chai Rg, and Peppermint Rg products have relatively high quantities sold, suggesting consistent demand across the board. These products, while not the top-sellers, maintain substantial quantities sold, indicating consistent popularity and contributing significantly to overall sales.
 
-- **Least 5 Selling Product**
-
+**Least 5 Selling Product**
 ![](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis/blob/main/Least_5.png)
 
 - With the lowest quantity sold (118 units), Dark chocolate stands out as the least performing product in terms of sales.
 - Jamacian Coffee River, Earl Grey, Guatemalan Sustainably Grown, and Spicy Eye Opener Chai products also exhibit lower quantities sold, indicating a lower level of demand compared to other items.
 
-- **Best Selling Product by Revenue**
+**Best Selling Product by Revenue**
 
 This determination is based on identifying products that significantly contribute to the overall revenue of the business. The analysis encompasses not only transaction frequency but also considers the interplay of product price and the total sales amount for each item, providing a comprehensive understanding of the key revenue drivers
 
@@ -184,6 +182,12 @@ To identify the best-selling product by revenue in Excel Power Pivot, a dedicate
 
 - Sustainably Grown Organic Lg and Dark Chocolate Lg products stand out as the top revenue generators, with Sustainably Grown Organic Lg slightly leading in total revenue at $21,152.
 - Latte Rg, Cappuccino Lg, and Morning Sunrise Chai Lg, while not the top revenue contributors, these products still exhibit substantial revenue figures, indicating consistent popularity among customers.
+
+## Data Visualization
+
+This data visualization was created using Microsoft Excel, each visual in it was created to display information matching each question in the project objective.
+
+![](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis/blob/main/Dashboard.png)
 
 ## Recommendation
 	
@@ -201,7 +205,15 @@ To identify the best-selling product by revenue in Excel Power Pivot, a dedicate
 
 Incorporating these findings into Maven Roasters' strategic decision-making processes will enable the business to capitalize on its strengths, address areas for improvement, and maintain a customer-centric approach for sustained success in the coffee market. 
 
+Thank You For Reading
 
+---
+
+I’m interested in a Data Analyst role in a reputable organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
+
+You can reach me on ochukoejemudaro@gmail.com or [Twitter](https://twitter.com/iamochuks/) or [LinkedIn](https://www.linkedin.com/in/ochukoejemudaro01/)
+
+THANK YOU
 
 
 
