@@ -198,7 +198,7 @@ To identify the best-selling product by revenue in Excel Power Pivot, a dedicate
 
 ## Data Visualization
 
-This data visualization was created using Microsoft Excel, each visual in it was created to display information matching each question in the business objective.
+This data visualization was created using Microsoft Excel, each visual created displays information for each question in the business objective.
 
 ![](https://github.com/OchukoEjemudaro/Maven-Roasters-Sales-Analysis/blob/main/Dashboard.png)
 
