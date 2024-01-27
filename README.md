@@ -218,7 +218,7 @@ This data visualization was created using Microsoft Excel, each visual created d
 
 Incorporating these findings into Maven Roasters' strategic decision-making processes will enable the business to capitalize on its strengths, address areas for improvement, and maintain a customer-centric approach for sustained success in the coffee market. 
 
-Thank You For Reading
+Thank You For Reading.
 
 ---
 
